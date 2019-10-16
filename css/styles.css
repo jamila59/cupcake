@@ -1,3 +1,19 @@
-.flashy{
-  
+h1.flashy {
+  font-style: oblique;
+  text-decoration: underline;
+}
+
+h3.flashy {
+  font-style: italic;
+}
+
+p.flashy {
+  font-weight: bold;
+  width: 50%;
+  color: pink;
+}
+
+.best {
+  font-style: italic;
+  color: maroon;
 }
